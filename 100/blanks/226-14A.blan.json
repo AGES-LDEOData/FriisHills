@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 3.8768132475115937,
+        "error": 0.43909639546576656,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Bracketing Average",
         "references": [
             {
                 "exclude": "ok",
@@ -141,12 +141,12 @@
             }
         ],
         "reviewed": true,
-        "value": 31.01181402888074
+        "value": 28.505251768845028
     },
     "Ar37": {
-        "error": 2.6021065664311075e-06,
+        "error": 1.279568724684523e-07,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Bracketing Average",
         "references": [
             {
                 "exclude": "ok",
@@ -285,12 +285,12 @@
             }
         ],
         "reviewed": true,
-        "value": 6.376855028154527e-06
+        "value": 7.4060763966199515e-06
     },
     "Ar38": {
-        "error": 2.0308197788523147e-06,
+        "error": 1.6276049875925939e-07,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Bracketing Average",
         "references": [
             {
                 "exclude": "ok",
@@ -429,12 +429,12 @@
             }
         ],
         "reviewed": true,
-        "value": 1.5594559720102851e-06
+        "value": 2.0245649045387073e-06
     },
     "Ar39": {
-        "error": 2.109254793492923e-06,
+        "error": 1.3156105745384705e-07,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Bracketing Average",
         "references": [
             {
                 "exclude": "ok",
@@ -573,12 +573,12 @@
             }
         ],
         "reviewed": true,
-        "value": 7.529182628678796e-07
+        "value": -5.152942254486692e-07
     },
     "Ar40": {
-        "error": 2.3355405721941445e-05,
+        "error": 1.920053755714889e-06,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Bracketing Average",
         "references": [
             {
                 "exclude": "ok",
@@ -717,6 +717,6 @@
             }
         ],
         "reviewed": true,
-        "value": 6.296992072318218e-05
+        "value": 5.675499755173915e-05
     }
 }
